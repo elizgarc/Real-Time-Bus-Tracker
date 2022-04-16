@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #343a40;
+    font-family: "Roboto Mono", monospace;
+  }
+  
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: rgba(17, 17, 17, 0.85);
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  .map-container {
+    width: 75%;
+    height: 75%;
+  }
+  
+  .drop {
+    border: none;
+    height: 20px;
+    width: 175px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .txt {
+    margin-right: 10px;
+    color: white;
+  }
+  
+  .btn {
+    padding: 0px 10px;
+    color: white;
+    background-color: #227c9d;
+    border: none;
+    border-radius: 5px;
+    width: auto;
+    height: 25px;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .stop {
+    background-color: #ef233c;
+  }
+  
+  .btn:hover {
+    transform: scale(1.05);
+  }
+  
+  .marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+  }
