@@ -1,6 +1,6 @@
 
    //Mapbox access
-  mapboxgl.accessToken = "pk.eyJ1IjoianVsZXNkMjMiLCJhIjoiY2wwdmZyNGxrMTZkZTNqcXBiZjRobWpydSJ9.pHtZtE40L-U8YgEeNs4cQA"; 
+  mapboxgl.accessToken = "pk.eyJ1IjoiZWxpemdhcmNpYSIsImEiOiJjbDIxNmE4aXgwNnpqM2pvNXU4aTR0aGc2In0._1XMQWHiITk3sbbyTjXQHg"; 
 
     var locations = [];
     var busStops = [];
