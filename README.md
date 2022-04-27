@@ -13,7 +13,7 @@ To see how this one works just go to the link of the project and press 'Show Act
 
 ## Roadmap
 
-I would like to add a geolocation tracker so the user can know where they are more easily in relation to the active busses.
+I would like to add a geolocation tracker so the user can know where they are more easily in relation to the active busses. I still need to add the map with the Boston location. Work in progress...
 
 ### License: 
 
