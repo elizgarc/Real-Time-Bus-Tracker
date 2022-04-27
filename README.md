@@ -14,3 +14,8 @@ To see how this one works just go to the link of the project and press 'Show Act
 ## Roadmap
 
 I would like to add a geolocation tracker so the user can know where they are more easily in relation to the active busses.
+
+### License: 
+
+Copywright (C) MIT Pro Coding Bootcamp Program - Emeritus 
+
